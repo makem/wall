@@ -1,4 +1,7 @@
 {
-    "name": "wall",
-    "version": "0.0.1"
+  "name": "wall",
+  "version": "0.0.1",
+  "devDependencies": {
+    "wall.container": "https://github.com/makem/wall.container/tarball/master"
+  }
 }
